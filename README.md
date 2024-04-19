@@ -10,7 +10,8 @@ Coroutines are a powerful feature in Kotlin and Android for asynchronous program
 
 # Important
 
-Sometimes there can be version issues with IntelliJ IDEA when using Coroutines, so be mindful of that.
+1. Sometimes there can be version issues with IntelliJ IDEA when using Coroutines, so be mindful of that.
+2. Some codes sometimes cannot work due to Intellij IDEA version if you run whole code Android, it will execute.
 
 ## Feedback and Contributions:
 Feedback, suggestions, and contributions are welcome. Feel free to open an issue or submit a pull request.
